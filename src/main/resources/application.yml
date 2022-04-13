@@ -1,0 +1,7 @@
+message : default
+spring:
+  profiles:
+     active: dev
+     include: prod
+
+
